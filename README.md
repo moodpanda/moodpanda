@@ -9,18 +9,4 @@
 I'm currently deep diving into **Machine Learning**, **Web Development**, and **Artificial Intelligence**, although my knowledge in these areas is currently limited. My goal is to improve and become a better version of myself.
 
 # [🧰](https://emojipedia.org/toolbox) Toolbox
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/icons/html.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/icons/html.svg">
-  <img alt="github contribution grid snake animation" src="/icons/html.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/icons/css.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/icons/css.svg">
-  <img alt="github contribution grid snake animation" src="/icons/css.svg">
-</picture> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/icons/node-js.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/icons/node-js.svg">
-  <img alt="github contribution grid snake animation" src="/icons/node-js.svg">
-</picture>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="icons/html5.svg" title="Html5"/></a><a href="">
