@@ -15,7 +15,6 @@ I'm currently deep diving into **Machine Learning**, **Web Development**, and **
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="icons/fastapi.svg" title="FastAPI"/></a><a href="">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="icons/laravel.svg" title="Laravel"/></a><a href="">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="icons/mysql.svg" title="MySQL"/></a><a href="">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="icons/nextjs.svg" title="NextJS"/></a><a href="">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="icons/react.svg" title="ReactJS"/></a><a href="">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="icons/tailwind.svg" title="TailwindCSS"/></a><a href="">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="icons/ubuntu.svg" title="Ubuntu"/></a><a href="">
